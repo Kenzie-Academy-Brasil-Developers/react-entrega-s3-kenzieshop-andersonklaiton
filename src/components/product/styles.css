@@ -1,0 +1,15 @@
+.price{
+    color: green;
+}
+.btns_cart_list{
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 110px;
+    height: 30px;
+    cursor: pointer;
+    background-color: rgba(0, 42, 255, 0.95);
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}

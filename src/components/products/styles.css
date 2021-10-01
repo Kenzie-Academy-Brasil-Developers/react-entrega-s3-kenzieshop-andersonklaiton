@@ -1,0 +1,22 @@
+.container_products img{
+    width: 120px;
+}
+.container_products{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center;
+    width: 80%;
+}
+.each_product{
+    width: 31%;
+    height: 330px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    background: rgb(201, 226, 250);
+    border-radius: 10px;
+    margin: 30px 10px 0px 0px;
+}
